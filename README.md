@@ -11,3 +11,5 @@ Useful Links
 [Thoughtbot RSpec Awesomeness](https://github.com/thoughtbot/shoulda-matchers)
 
 [Capybara Cheatsheet](https://gist.github.com/zhengjia/428105)
+
+[Front End Dev Links](https://github.com/dypsilon/frontend-dev-bookmarks)
