@@ -8,7 +8,7 @@ Useful Links
 
 [Shoulda Matchers](https://github.com/thoughtbot/shoulda-matchers)
 
-[Thoughtbot RSpec Awesomeness](https://github.com/thoughtbot/shoulda-matchers)
+[Thoughtbot RSpec Awesomeness](http://robots.thoughtbot.com/rspec-integration-tests-with-capybara)
 
 [Capybara Cheatsheet](https://gist.github.com/zhengjia/428105)
 
