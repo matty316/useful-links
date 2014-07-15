@@ -13,3 +13,7 @@ Useful Links
 [Capybara Cheatsheet](https://gist.github.com/zhengjia/428105)
 
 [Front End Dev Links](https://github.com/dypsilon/frontend-dev-bookmarks)
+
+[Awesome Awesomeness (Bunch a links)](https://github.com/bayandin/awesome-awesomeness)
+
+[Links from the treehouse show](https://github.com/amyalichkin/TreehouseShow)
