@@ -10,6 +10,8 @@ Useful Links
 
 [Thoughtbot RSpec Awesomeness](http://robots.thoughtbot.com/rspec-integration-tests-with-capybara)
 
+[More Thoughtbot](http://robots.thoughtbot.com/how-we-test-rails-applications)
+
 [Capybara Cheatsheet](https://gist.github.com/zhengjia/428105)
 
 [Front End Dev Links](https://github.com/dypsilon/frontend-dev-bookmarks)
