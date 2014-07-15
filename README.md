@@ -1,4 +1,4 @@
-useful-links
+Useful Links
 ============
 [RSpec cheatsheet](https://learn.thoughtbot.com/test-driven-rails-resources/rspec.pdf)
 
