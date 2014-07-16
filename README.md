@@ -2,7 +2,7 @@ Useful Links
 ============
 [RSpec cheatsheet](https://learn.thoughtbot.com/test-driven-rails-resources/rspec.pdf)
 
-[Snipmate snippets](https://github.com/honza/vim-snippets/blob/master/snippets/eruby.snippets)
+[Snipmate snippets](https://github.com/honza/vim-snippets/blob/master/snippets)
 
 [Better Specs](http://betterspecs.org/)
 
