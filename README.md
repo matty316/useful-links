@@ -19,3 +19,5 @@ Useful Links
 [Awesome Awesomeness (Bunch a links)](https://github.com/bayandin/awesome-awesomeness)
 
 [Links from the treehouse show](https://github.com/amyalichkin/TreehouseShow)
+
+[Rails Screencasts](https://gorails.com/?utm_source=rubyweekly&utm_medium=email)
