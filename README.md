@@ -1,5 +1,7 @@
 Useful Links
 ============
+[iOS Awesomeness](https://github.com/vsouza/awesome-ios/tree/master#style-guides)
+
 [RSpec cheatsheet](https://learn.thoughtbot.com/test-driven-rails-resources/rspec.pdf)
 
 [Snipmate snippets](https://github.com/honza/vim-snippets/blob/master/snippets)
